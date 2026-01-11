@@ -46,11 +46,11 @@ if(isset($_POST['Name'])){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Travel Website</title>
-    <link rel="stylesheet" href="../public/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <img class="bg" src="../public/bg.avif" alt="tourist places">
+    <img class="bg" src="bg.avif" alt="tourist places">
     <div class="container">
         <h1>Welcome to Our Travel Website</h1>
         <p>Enter the details to confirm your booking here</p>
